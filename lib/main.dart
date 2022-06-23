@@ -22,7 +22,7 @@ Future<void> main() async {
   await Global.init();
   await HttpChannel.channel.setUpChannel(
       config: HttpConfig(
-          ip: "https://liveapi.starops.work",
+          ip: "www.test.com",
           maxSlave: 8,
           maxLongRunningSlave: 5,
           statusCodeIgnoreRetry: [
