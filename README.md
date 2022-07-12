@@ -1,4 +1,4 @@
-# live_anchor_project
+# flutter_getx_dio_sample
 
 A new Flutter project.
 
